@@ -1,16 +1,17 @@
 {
   "hwid": [
-    "12345678",
-    "ABCDEFGH"
+    "hwid1",
+    "hwid2"
   ],
   "discord": [
-    "luvkrime",
-    "reseller"
+    "discord1",
+    "discord2"
   ],
   "ip": [
-    "1.2.3.4"
+    "ip1"
   ]
 }
+
 
 
 
